@@ -1,1 +1,5 @@
 I included some school projects 
+
+Under 01/ compile and run lightsout.java (my partially complete GUI assignment)
+
+Under 02/ compile and run Run.java (console based card game)
