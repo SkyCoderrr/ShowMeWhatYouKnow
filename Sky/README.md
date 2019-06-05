@@ -1,4 +1,4 @@
-#__This folder will be stroing code or projects created by Sky Wang__
+# This folder will be stroing code or projects created by Sky Wang
 
 
 ### Past project 1:Java Complier:
