@@ -11,7 +11,7 @@
 >A web crawler that automatically download similar pictures from Google Pictures.
 >
 >Before running the program, there are several paths need to be changed.
->*open download.py and change the file path marked in the code
->*open google.py and change the file path marked in the code
+*open download.py and change the file path marked in the code
+*open google.py and change the file path marked in the code
 >
 >__Run start.py to collect similar pirctures' address from Google, then run set.py to remove same address, then run download.py to download all the pictures.__
