@@ -14,4 +14,4 @@
 >*open download.py and change the file path marked in the code
 >*open google.py and change the file path marked in the code
 >
->Run start.py to collect similar pirctures' address from Google, then run set.py to remove same address, then run download.py to download all the pictures.
+>__Run start.py to collect similar pirctures' address from Google, then run set.py to remove same address, then run download.py to download all the pictures.__
